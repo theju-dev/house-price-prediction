@@ -79,3 +79,12 @@ house_price_prediction/
 ## Author
 
 House Price Prediction - Machine Learning Practice Project
+## Final Model Performance
+
+The final Linear Regression model includes location as an additional categorical feature.
+
+- MAE: approximately 2258.64
+- RMSE: approximately 3341.72
+- R² Score: approximately 0.463
+
+Adding location significantly improved model performance compared with the earlier baseline models.
