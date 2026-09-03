@@ -87,4 +87,4 @@ The final Linear Regression model includes location as an additional categorical
 - RMSE: approximately 3341.72
 - R² Score: approximately 0.463
 
-Adding location significantly improved model performance compared with the earlier baseline models.
+Adding location significantly improved model performance compared with the earlier baseline models using linear regression model.
